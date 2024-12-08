@@ -1,0 +1,5 @@
+Label,# Samples,Average,Min,Max,Std. Dev.,Error %,Throughput,Received KB/sec,Sent KB/sec,Avg. Bytes
+Search Products Category,27271,317,161,3249,286.75,0.000%,159.78602,6045.15,36.47,38740.8
+Search Products Terms,27288,183,78,1346,48.55,0.004%,50.18981,1091.89,12.15,22277.4
+Search By Category,9,283,167,501,110.04,0.000%,1.63428,66.84,0.37,41877.7
+TOTAL,54568,250,78,3249,216.20,0.002%,100.01815,2979.87,23.52,30508.4

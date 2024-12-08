@@ -1,0 +1,3 @@
+Label,# Samples,Average,Min,Max,Std. Dev.,Error %,Throughput,Received KB/sec,Sent KB/sec,Avg. Bytes
+Search Products,38899,622,165,1846,267.79,0.000%,10.78054,222.52,2.60,21136.6
+TOTAL,38899,622,165,1846,267.79,0.000%,10.78054,222.52,2.60,21136.6
